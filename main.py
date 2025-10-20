@@ -24,4 +24,4 @@ for q in questions:
     else:
         print(f"Wrong! The answer is {q['answer']}.\n")
 
-print(f"Quiz finished! Your score: {score}/{len(questions)}")
+print(f"Quiz finished! ya bro Your score: {score}/{len(questions)}")

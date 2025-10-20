@@ -25,3 +25,5 @@ for q in questions:
         print(f"Wrong! The answer is {q['answer']}.\n")
 
 print(f"Quiz finished! ya bro Your score: {score}/{len(questions)}")
+
+# this is from zaid

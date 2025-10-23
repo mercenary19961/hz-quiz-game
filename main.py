@@ -1,9 +1,6 @@
 from quizbrain import QuizBrain
 
-
 quizbrain = QuizBrain()
-
-
 
 while range(10):
     score = 0
@@ -39,9 +36,5 @@ while range(10):
     question_number += 1
 
 print(f"Quiz finished! Your score: {score}/10")
-
-
-
-
 
 # testing
